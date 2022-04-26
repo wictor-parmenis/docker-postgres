@@ -1,0 +1,17 @@
+{
+  "name": "docker-postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3"
+  }
+}
